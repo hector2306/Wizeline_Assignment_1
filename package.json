@@ -1,0 +1,14 @@
+{
+  "name": "testcafe_workshop",
+  "version": "1.0.0",
+  "description": "wizeline workshop Testcafe project",
+  "main": "index.js",
+  "scripts": {
+    "test-all-chrome": "testcafe chrome ./page_model/test"
+  },
+  "author": "Hector Mares",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
